@@ -2,5 +2,21 @@
     "name": "frees-au/ce-recipes",
     "description": "Free Sauce recipes.",
     "type": "drupal-recipe",
-    "license": "GPL-2.0-or-later"
+    "license": "GPL-2.0-or-later",
+    "require": {
+      "drupal/metatag": "^2.0",
+      "drupal/search_api_lunr": "^3.0",
+      "drush/drush": "^13",
+      "drupal/admin_toolbar": "^3.4",
+      "drupal/linkit": "^6.1",
+      "drupal/gin": "^3.0@rc",
+      "drupal/gin_login": "^2.0",
+      "drupal/gin_toolbar": "^1.0@rc",
+      "drupal/pathauto": "^1.12",
+      "drupal/config_ignore": "^3.2",
+      "drupal/redirect": "^1.9",
+      "drupal/field_group": "^3.4",
+      "drupal/oembed_providers": "^2.1",
+      "drupal/simple_sitemap": "^4.1"
+    }
 }
