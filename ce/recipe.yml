@@ -6,3 +6,4 @@ recipes:
   - ce_content_types
   - ce_seo
   - ce_lunr_search
+  - ce_default_content
