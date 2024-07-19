@@ -1,0 +1,6 @@
+name: 'CE Default content'
+description: 'Provide some default content'
+type: 'Site'
+recipes:
+  - ce_content_type_article
+  - ce_content_type_page
